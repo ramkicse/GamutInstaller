@@ -3,7 +3,7 @@
 =======================================================================
 
 
-## 1. Download GamutInstaller
+## 1. Download GamutInstaller (372MB - Contains MongoDB and Wildfly Server) 
 
     
     https://drive.google.com/uc?id=1xmErm_osFubu20SU2quznbklIOxRYIfB&export=download
