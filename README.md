@@ -15,3 +15,7 @@
 ## 3. Run Gamut   
     
     ./gamut.sh
+
+## 4. Open into the Browser
+    
+    http://localhost:8080/
