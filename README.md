@@ -10,8 +10,8 @@
    
 ## 2. Unzip  
    
-    ```sh
     unzip gamut.zip   
    
-    ```
+## 3. Run Gamut   
     
+    ./gamut.sh
