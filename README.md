@@ -8,14 +8,20 @@
     
     https://drive.google.com/file/d/1xmErm_osFubu20SU2quznbklIOxRYIfB/view?usp=sharing
    
-## 2. Unzip  
+## 2. Copy into New Directory  
    
-    unzip gamut.zip   
+    mkdir gamut
+    mv gamut.zip gamut/
+    cd gamut/
+    
+## 3. Unzip  
    
-## 3. Run Gamut   
+    unzip gamut.zip  
+   
+## 4. Run Gamut   
     
     ./gamut.sh
 
-## 4. Open into the Browser
+## 5. Open into the Browser
     
     http://localhost:8080/
