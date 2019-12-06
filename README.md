@@ -25,3 +25,6 @@
 ## 5. Open into the Browser
     
     http://localhost:8080/
+
+
+[![Gamut Installtion Demo](https://img.youtube.com/vi/uZAjmHv-MXU/0.jpg)](https://youtu.be/uZAjmHv-MXU "Everything Is AWESOME")
